@@ -1,0 +1,36 @@
+{
+  "name": "roshangara/eloquent-helper",
+  "description": "add more functions to eloquent",
+  "homepage": "https://github.com/roshangara/eloquent-helper",
+  "keywords": [
+    "laravel",
+    "lumen",
+    "roshangara",
+    "eloquent-helper"
+  ],
+  "support": {
+    "issues": "https://github.com/roshangara/eloquent-helper/issues",
+    "source": "https://github.com/roshangara/eloquent-helper"
+  },
+  "require": {
+    "php": ">=7.0",
+    "illuminate/support": "^5.0",
+    "illuminate/database": "^5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Roshangara\\EloquentHelper\\": "src"
+    }
+  },
+  "extra": {
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mohammad Taghikhani",
+      "email": "mroshangara@gmail.com",
+      "homepage": "http://roshangara.ir"
+    }
+  ],
+  "minimum-stability": "dev"
+}
